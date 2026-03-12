@@ -1,0 +1,13 @@
+DSA Practice Tracker (Java Swing)
+
+Features:
+- Add solved problems
+- Topic analysis
+- Difficulty analysis
+- Weak topic detection
+
+Tech Stack:
+Java
+Swing GUI
+HashMap
+ArrayList
